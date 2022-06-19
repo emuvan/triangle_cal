@@ -69,13 +69,3 @@ Non-Comp, 45.2, 110, 110, 147, 50, 125, 150, 55, 140, 100
 The first line gives the earliest origin year (i.e. 1990) and the number of development years (in this case ranging from 1990 through to 1993 i.e. 4).
 
 After the first line, there is a line for each triangle. The first field in the line gives the name of the product. The subsequent fields are the accumulated triangle values.
-
-General Considerations
-
-The data may well contain more than two triangles and there may be many more than four origin years.
-
-The example input data file given is very &#39;clean&#39;. In practice data files may contain errors or the data may be in an unexpected format.
-
-Incremental values in the input data may have been left out of the input file if they are zero. Origin years with no claims may have been left out of the input file.
-
-You should consider these issues and other potential problems with the input file, and how your program might deal with them.
