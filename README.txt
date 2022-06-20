@@ -1,3 +1,43 @@
+This  is the technical developer test  work by Van Quang Nguyen and this is the instructions how to run my codes for this test
+
+First, download and install the latest  version of Python from the official website or from the microsoft store.
+
+Next, download the entire folder of Van_Quang_Nguyen_triangle_test  into your documents folder of  your computer.
+
+Afterwards. navigate to the Van_Quang_Nguyen_triangle_test from the command prompt 
+
+Then, run the program from  the command prompt by typing in: python main.py
+it will print out these messages 
+Enter 'EXIT' to close program
+Enter file name:
+
+finally, type in data_testing in order to get the result and it will create a brand new csv file.
+you can open up the file directly  and it will open microsoft excel.
+
+also, the terminal will print out this message:
+Your file contains an error on line -  14  -  []
+Only the first four indexes will be used.
+
+
+list index out of range
+Comp [0, 0, 0, 0, 0, 0, 0, 110.0, 280.0, 200.0]
+Non-Comp [45.2, 110.0, 110.0, 147.0, 50.0, 125.0, 150.0, 55.0, 140.0, 100.0]
+
+
+Result_File_data_testing.csv Created, Check your directory!
+
+
+
+
+
+
+
+
+
+
+
+
+
 One of the major jobs that we do is claims reserving, which involves assessing how much money is likely to be paid in future in respect of the claims that arise from a set of insurance policies that have already been taken out. The statistical analysis of this is based around triangles of payment figures for previous claims.
 
 A very simple example triangle might look like this (the triangle is the shaded bit):
